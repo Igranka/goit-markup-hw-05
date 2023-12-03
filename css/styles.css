@@ -194,7 +194,7 @@ header .container {
     min-width: 169px;
     height: 56px;
     margin: 0 auto;
-    border: 4px;
+    border: none;
     border-radius: 4px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     padding: 16px 32px;
@@ -574,7 +574,7 @@ header .container {
 
 .subscribe-button:hover,
 .subscribe-button:focus {
-    background-color: #404BBF;
+    background-color: #31D0AA;
 }
 
 .send-icon {
@@ -796,7 +796,7 @@ header .container {
     min-width: 169px;
     height: 56px;
     margin: 0 auto;
-    border: 4px;
+    border: none;
     border-radius: 4px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     padding: 16px 32px;

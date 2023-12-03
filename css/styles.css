@@ -519,8 +519,9 @@ header .container {
 
 /* Subscribe part */
 
-.subscribe {
-    margin-right: 24px;
+.subscribe-form {
+    display: flex;
+    gap: 24px;
 }
 
 .subscribe-input {

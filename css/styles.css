@@ -711,6 +711,10 @@ header .container {
 }
 
 /* Comment */
+.contact-form-comment-wrapper {
+    margin-bottom: 16px;
+}
+
 .contact-form textarea {
     border: 1px solid rgba(46, 47, 66, 0.40);
     height: 40px;
@@ -739,7 +743,7 @@ header .container {
 
 /* Checkbox */
 .contact-form-checkbox-wrapper {
-    margin-bottom: 16px;
+    margin-bottom: 24px;
 }
 
 .contact-form-custom-checkbox {
